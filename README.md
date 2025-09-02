@@ -40,7 +40,7 @@
 **Backend:**  
 - NestJS  
 - MongoDB  
-- Redis  
+- API Gateway  
 - Docker  
 - JWT  
 
