@@ -39,7 +39,7 @@
 
 **Backend:**  
 - NestJS  
-- PostgreSQL  
+- MongoDB  
 - Redis  
 - Docker  
 - JWT  
